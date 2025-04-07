@@ -1,5 +1,5 @@
 {
-  "name": "pair",
+  "name": "vinnie",
   "version": "1.0.0",
   "description": "A WhatsApp bot pairing code generator using Baileys and Mega.nz",
   "main": "src/server.js",
